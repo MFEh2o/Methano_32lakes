@@ -1,0 +1,720 @@
+OTU.ID	taxonomy
+62889	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__Methanocellaceae; g__Methanocella; s__
+139580	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__Methanocellaceae; g__Methanocella; s__
+2053228	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__Methanocellaceae; g__; s__
+107074	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__
+349670	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+1110108	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales
+521827	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+572275	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+1110161	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+115371	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+306173	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+4479098	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+4479099	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+4343902	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__
+592689	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__
+105600	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+353857	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+4340927	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__; s__
+84255	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+253964	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__Methanocellaceae; g__Methanocella; s__
+159741	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanomethylovorans; s__
+4378163	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__ANME-2D; g__; s__
+571728	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+329648	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+531891	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+551498	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+37119	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+1121984	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+4192888	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+626383	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+77966	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+236057	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+782042	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__Methanomassiliicoccus; s__
+254640	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__Methanocellaceae; g__Methanocella; s__
+1145750	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+4407845	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+242720	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+826668	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+238101	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+1581972	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+1122013	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+243000	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__Methanocellaceae; g__Methanocella; s__
+4332496	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+237857	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+66896	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+733538	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+805881	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__ANME-2D; g__; s__
+107596	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+203472	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+572118	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+647040	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+518529	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+4334754	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanospirillaceae; g__Methanospirillum; s__
+706603	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__ANME-2D; g__; s__
+533166	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__WSA2; g__; s__
+101553	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.ReferenceOTU673	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.ReferenceOTU456	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.ReferenceOTU1675	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.ReferenceOTU617	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.ReferenceOTU1336	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.ReferenceOTU122	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+New.ReferenceOTU540	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.ReferenceOTU544	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.ReferenceOTU949	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.ReferenceOTU639	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.ReferenceOTU144	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.ReferenceOTU891	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.ReferenceOTU14	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.ReferenceOTU1114	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.ReferenceOTU368	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.ReferenceOTU1480	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__MSBL1; g__SAGMEG-1; s__
+New.ReferenceOTU1389	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.ReferenceOTU322	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__WSA2; g__; s__
+New.ReferenceOTU1639	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.ReferenceOTU1514	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.ReferenceOTU275	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.ReferenceOTU85	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.ReferenceOTU484	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.ReferenceOTU1612	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.ReferenceOTU1187	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU786	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+New.CleanUp.ReferenceOTU1325	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU1777	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU2559	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU2771	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU4123	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU4732	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU4812	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU4884	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU4988	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU5583	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__Methanocellaceae; g__Methanocella; s__
+New.CleanUp.ReferenceOTU7663	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU9786	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU10392	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU10854	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU12114	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanospirillaceae; g__Methanospirillum; s__
+New.CleanUp.ReferenceOTU12194	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU12500	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae
+New.CleanUp.ReferenceOTU12526	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU13420	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__; s__
+New.CleanUp.ReferenceOTU13897	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__MSBL1; g__SAGMEG-1; s__
+New.CleanUp.ReferenceOTU14535	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU14672	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU17165	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU18471	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU18690	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU22355	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanospirillaceae; g__Methanospirillum; s__
+New.CleanUp.ReferenceOTU22621	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU23013	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU23234	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU23382	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU25297	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU27279	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU27424	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU27508	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanospirillaceae; g__Methanospirillum; s__
+New.CleanUp.ReferenceOTU28153	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU31234	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__Methanocellaceae; g__Methanocella; s__
+New.CleanUp.ReferenceOTU32010	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU32225	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU34064	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+New.CleanUp.ReferenceOTU36290	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU36685	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU37282	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU37342	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU37450	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU39460	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU39843	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU40640	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU41683	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU42734	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU43288	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU43681	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU44132	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU44279	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU47872	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU48808	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU49564	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU50515	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU50638	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__
+New.CleanUp.ReferenceOTU51880	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU51887	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__MSBL1; g__SAGMEG-1; s__
+New.CleanUp.ReferenceOTU52388	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU52432	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU54392	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae
+New.CleanUp.ReferenceOTU54817	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU55442	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__ANME-2D; g__; s__
+New.CleanUp.ReferenceOTU55485	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU56834	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU57642	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU57857	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__MSBL1; g__SAGMEG-1; s__
+New.CleanUp.ReferenceOTU58330	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU58822	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU60246	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU60371	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU60941	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU62952	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU63597	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__
+New.CleanUp.ReferenceOTU63986	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU65368	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__Methanocellaceae; g__Methanocella; s__
+New.CleanUp.ReferenceOTU65396	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanospirillaceae; g__Methanospirillum; s__
+New.CleanUp.ReferenceOTU65775	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU65787	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU65936	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU66418	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU68599	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU69447	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU69707	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU71565	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU73146	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU73191	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU73830	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU76094	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU76592	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU76714	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU76737	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU78112	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU79146	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__
+New.CleanUp.ReferenceOTU79263	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU79350	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU80990	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU83894	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU84016	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanospirillaceae; g__Methanospirillum; s__
+New.CleanUp.ReferenceOTU86612	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU87122	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU88130	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU88585	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU88675	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU95431	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU95910	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU95990	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU97590	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU98372	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU99073	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU99470	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU100154	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU100237	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU100531	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU101417	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU103410	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU105478	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU106116	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU107253	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU107442	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU107479	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__WSA2; g__; s__
+New.CleanUp.ReferenceOTU108198	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU108480	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU111107	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+New.CleanUp.ReferenceOTU112539	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU112988	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU113734	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU114494	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__WSA2; g__; s__
+New.CleanUp.ReferenceOTU116468	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU116744	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+New.CleanUp.ReferenceOTU118631	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU118654	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU118770	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU118856	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU120020	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU120316	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU120738	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU122843	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU123788	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU123856	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU124641	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU124869	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__Methanocellaceae; g__Methanocella; s__
+New.CleanUp.ReferenceOTU125287	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU125464	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__Methanocellaceae; g__Methanocella; s__
+New.CleanUp.ReferenceOTU126497	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU127104	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU127581	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__
+New.CleanUp.ReferenceOTU127970	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU128534	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU128942	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU129787	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU129804	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU132139	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU132372	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU134542	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU135561	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU136017	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU136370	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__; s__
+New.CleanUp.ReferenceOTU136717	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU137040	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU138954	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU140111	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales
+New.CleanUp.ReferenceOTU140926	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU141809	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU142099	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__
+New.CleanUp.ReferenceOTU142453	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU143580	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU144426	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU145078	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU147021	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU149177	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU149607	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU150250	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU151475	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU152287	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU152862	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU153233	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU154423	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__WSA2; g__; s__
+New.CleanUp.ReferenceOTU154750	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU155213	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU155243	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU156482	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU157566	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU157599	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU157818	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__ANME-2D; g__; s__
+New.CleanUp.ReferenceOTU158224	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU160508	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU161601	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU162036	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU162536	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__MSBL1; g__SAGMEG-1; s__
+New.CleanUp.ReferenceOTU164616	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU164757	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU165912	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU165988	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__; s__
+New.CleanUp.ReferenceOTU166596	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU166661	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU167596	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__MSBL1; g__SAGMEG-1; s__
+New.CleanUp.ReferenceOTU167785	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanomicrobiaceae; g__; s__
+New.CleanUp.ReferenceOTU168103	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU168456	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU168579	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU170157	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU170476	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU170698	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU173441	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+New.CleanUp.ReferenceOTU173795	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU174394	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU174794	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU174951	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU178347	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU178623	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU179912	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU179953	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU180996	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU181590	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU182125	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU182340	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU182865	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU182881	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__WSA2; g__; s__
+New.CleanUp.ReferenceOTU183245	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae
+New.CleanUp.ReferenceOTU183863	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU184128	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU184454	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU184571	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__MSBL1; g__SAGMEG-1; s__
+New.CleanUp.ReferenceOTU185492	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__Methanocellaceae; g__Methanocella; s__
+New.CleanUp.ReferenceOTU185847	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU186312	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU187009	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU187680	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU188740	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU189221	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU189974	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU190276	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU190899	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU191640	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__MSBL1; g__SAGMEG-1; s__
+New.CleanUp.ReferenceOTU193492	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__Methanocellaceae; g__Methanocella; s__
+New.CleanUp.ReferenceOTU194082	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU194138	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__WSA2; g__; s__
+New.CleanUp.ReferenceOTU194294	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__; s__
+New.CleanUp.ReferenceOTU194765	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__WSA2; g__; s__
+New.CleanUp.ReferenceOTU195490	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU198939	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+New.CleanUp.ReferenceOTU200210	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU200266	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__Methanocellaceae; g__Methanocella; s__
+New.CleanUp.ReferenceOTU203536	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU205242	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU205404	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU207639	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU208166	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU208588	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU209223	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU209606	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__Methanocellaceae; g__Methanocella; s__
+New.CleanUp.ReferenceOTU209783	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU210300	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU210958	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU211056	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU212027	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU213692	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU214046	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae
+New.CleanUp.ReferenceOTU215477	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU216292	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__Methanocellaceae; g__Methanocella; s__
+New.CleanUp.ReferenceOTU216327	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU216353	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU218193	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU218476	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU218530	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU218572	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__Methanocellaceae; g__Methanocella; s__
+New.CleanUp.ReferenceOTU220156	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU220692	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+New.CleanUp.ReferenceOTU221963	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU224693	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU224779	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU226709	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU227422	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU227425	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU227906	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+New.CleanUp.ReferenceOTU227952	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU231130	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU231241	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU231462	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU231678	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU232042	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__MSBL1; g__SAGMEG-1; s__
+New.CleanUp.ReferenceOTU234125	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU234426	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU235045	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU236995	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanospirillaceae; g__Methanospirillum; s__
+New.CleanUp.ReferenceOTU237335	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU237652	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU238193	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU238410	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+New.CleanUp.ReferenceOTU238716	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU239421	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__Methanomassiliicoccus; s__
+New.CleanUp.ReferenceOTU239524	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU239550	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU239704	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU239708	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU241390	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU241715	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU242829	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU243352	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU243662	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU244054	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU244201	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanomicrobiaceae; g__; s__
+New.CleanUp.ReferenceOTU246364	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU247477	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU247658	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU249375	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU249802	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__Methanomassiliicoccus; s__
+New.CleanUp.ReferenceOTU250658	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__Methanocellaceae; g__Methanocella; s__
+New.CleanUp.ReferenceOTU251726	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU252121	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae
+New.CleanUp.ReferenceOTU253490	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU255360	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU255502	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU256157	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU256562	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU256836	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU258730	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__Methanomassiliicoccus; s__
+New.CleanUp.ReferenceOTU260583	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+New.CleanUp.ReferenceOTU260604	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU261550	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU261686	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+New.CleanUp.ReferenceOTU262152	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU263398	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU264970	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU265534	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU267912	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU270264	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU271491	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU271591	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU272682	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU273811	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU274447	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__WSA2; g__; s__
+New.CleanUp.ReferenceOTU274511	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU276125	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU276189	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU276195	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU276379	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU276404	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU276873	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU277365	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU277804	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU277915	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__MSBL1; g__SAGMEG-1; s__
+New.CleanUp.ReferenceOTU278054	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae
+New.CleanUp.ReferenceOTU279681	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU279903	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU279969	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU280727	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU281157	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU281340	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU281850	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU283871	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU284372	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU285315	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU287046	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU288734	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU289696	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__WSA2; g__; s__
+New.CleanUp.ReferenceOTU290081	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU290542	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU291144	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU291987	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU293807	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU296008	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU296386	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__Methanomassiliicoccus; s__
+New.CleanUp.ReferenceOTU297149	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU297176	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU297327	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__MSBL1; g__SAGMEG-1; s__
+New.CleanUp.ReferenceOTU297813	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU298402	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU299052	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU299499	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU299600	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+New.CleanUp.ReferenceOTU299813	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU300716	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU301795	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU302109	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU302514	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU306510	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU306701	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU310229	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__Methanocellaceae; g__Methanocella; s__
+New.CleanUp.ReferenceOTU310711	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU311124	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU311535	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU311875	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU311923	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU312585	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU313389	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU316956	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU317659	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU318346	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU319578	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU320537	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU321353	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__MSBL1; g__SAGMEG-1; s__
+New.CleanUp.ReferenceOTU321468	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU323062	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU323259	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU323391	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU326842	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU327293	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU327382	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU328404	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU328686	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__WSA2; g__; s__
+New.CleanUp.ReferenceOTU330051	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU330475	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU332313	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__Methanocellaceae; g__Methanocella; s__
+New.CleanUp.ReferenceOTU332697	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU333187	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU333975	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU334505	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU335181	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU335318	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU335529	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU335715	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU336406	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__Methanocellaceae; g__Methanocella; s__
+New.CleanUp.ReferenceOTU338165	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU338480	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU338559	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU338831	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU339290	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU340412	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU341227	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU341920	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU343546	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU344408	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU344459	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU345447	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU346963	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU349590	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU349871	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__Methanocellaceae; g__Methanocella; s__
+New.CleanUp.ReferenceOTU351153	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanospirillaceae; g__Methanospirillum; s__
+New.CleanUp.ReferenceOTU354494	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU354616	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU355341	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU355585	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU355845	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU358188	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU360614	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU361268	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU361493	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU361514	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU361891	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU361970	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU362748	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU363157	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU364624	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU366582	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU368612	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU369058	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU369165	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU369404	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+New.CleanUp.ReferenceOTU369881	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU370240	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+New.CleanUp.ReferenceOTU370923	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU371232	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+New.CleanUp.ReferenceOTU371284	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU371677	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+New.CleanUp.ReferenceOTU372274	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU373502	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales
+New.CleanUp.ReferenceOTU375357	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__ANME-2D; g__; s__
+New.CleanUp.ReferenceOTU375896	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__WSA2; g__; s__
+New.CleanUp.ReferenceOTU377967	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU378934	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU379895	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU380837	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU382557	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__MSBL1; g__SAGMEG-1; s__
+New.CleanUp.ReferenceOTU383946	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU384351	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU384968	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU385019	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__MSBL1; g__SAGMEG-1; s__
+New.CleanUp.ReferenceOTU385109	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU385588	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU385920	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU386746	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU387006	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU389153	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU389580	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU391361	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU391759	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU392068	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU392149	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__
+New.CleanUp.ReferenceOTU392197	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU392734	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU393016	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU393114	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU394209	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU394311	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU395226	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU395393	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU396687	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU399305	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU401755	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU402345	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU402555	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__MSBL1; g__SAGMEG-1; s__
+New.CleanUp.ReferenceOTU404006	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU404639	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU405013	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU405064	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU406501	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU406561	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU406855	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__WSA2; g__; s__
+New.CleanUp.ReferenceOTU407136	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU407825	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__WSA2; g__; s__
+New.CleanUp.ReferenceOTU408883	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU409076	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU409158	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU410943	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU411376	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU411433	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU416454	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU416853	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU418416	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU419373	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+New.CleanUp.ReferenceOTU420455	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU421819	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU423086	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU423451	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+New.CleanUp.ReferenceOTU424845	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+New.CleanUp.ReferenceOTU425555	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU426679	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU427689	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU427990	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU428086	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU428242	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU430151	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU430732	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU431596	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU431846	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU432345	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU433161	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU434669	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU434704	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__ANME-2D; g__; s__
+New.CleanUp.ReferenceOTU435577	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU435943	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU437738	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU437887	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU438927	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__Methanocellaceae; g__Methanocella; s__
+New.CleanUp.ReferenceOTU439143	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU439680	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__MSBL1; g__SAGMEG-1; s__
+New.CleanUp.ReferenceOTU440346	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU440425	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU440766	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU443782	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU444459	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU444503	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU446122	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU446635	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU448862	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU451489	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU451601	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__MSBL1; g__SAGMEG-1; s__
+New.CleanUp.ReferenceOTU452190	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU453706	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU455887	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU456266	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU458289	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU458685	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU459706	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae
+New.CleanUp.ReferenceOTU460653	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU461051	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU461234	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU461313	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU461653	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU463963	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__
+New.CleanUp.ReferenceOTU464435	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU465866	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU466624	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU466825	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU467759	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__
+New.CleanUp.ReferenceOTU468733	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU468758	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU469201	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU469537	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU470115	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU470119	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__
+New.CleanUp.ReferenceOTU473872	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU474927	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU475273	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU475529	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU475726	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__MSBL1; g__SAGMEG-1; s__
+New.CleanUp.ReferenceOTU477522	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+New.CleanUp.ReferenceOTU477530	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU478917	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU480029	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU481241	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU482252	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU482273	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU483455	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU485294	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU486664	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU487709	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU488167	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__Methanomassiliicoccus; s__
+New.CleanUp.ReferenceOTU488744	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU489174	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU489710	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU490014	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU491169	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU493906	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae
+New.CleanUp.ReferenceOTU494317	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU494515	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU494648	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU494914	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU495737	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU499172	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__; g__; s__
+New.CleanUp.ReferenceOTU500375	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__MSBL1; g__SAGMEG-1; s__
+New.CleanUp.ReferenceOTU500707	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU502523	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU503060	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU504561	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU505124	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__WSA2; g__; s__
+New.CleanUp.ReferenceOTU507727	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium; s__
+New.CleanUp.ReferenceOTU508203	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__MSBL1; g__SAGMEG-1; s__
+New.CleanUp.ReferenceOTU510319	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU510357	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU510393	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU511330	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU511600	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU511923	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+New.CleanUp.ReferenceOTU511932	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU512457	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU513698	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU517327	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU518131	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU519758	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU520583	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU521510	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__MSBL1; g__SAGMEG-1; s__
+New.CleanUp.ReferenceOTU521831	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU522049	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU522579	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
+New.CleanUp.ReferenceOTU522683	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU523290	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Candidatus Methanoregula; s__
+New.CleanUp.ReferenceOTU523398	k__Archaea; p__Euryarchaeota; c__Thermoplasmata; o__E2; f__[Methanomassiliicoccaceae]; g__; s__
+New.CleanUp.ReferenceOTU525001	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+New.CleanUp.ReferenceOTU527898	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae
+New.CleanUp.ReferenceOTU528844	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanocellales; f__; g__; s__
+New.CleanUp.ReferenceOTU529343	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea; s__
+New.CleanUp.ReferenceOTU529466	k__Archaea; p__Euryarchaeota; c__Methanomicrobia; o__Methanosarcinales; f__Methanosaetaceae; g__Methanosaeta; s__
