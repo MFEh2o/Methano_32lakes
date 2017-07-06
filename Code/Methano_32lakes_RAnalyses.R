@@ -247,9 +247,9 @@ save_plot("Figure4.pdf",q1, base_width = 5, base_height = 5)
 
 ####################################################################
 # Perform UNDERC analysis
-otufile = "UNDERC_otu.txt"             # OTU table
+otufile = "UNDERC_otu.txt"              # OTU table
 mapfile = "UNDERC_envData_map.txt"      # Env data
-underc = import_qiime(otufile,mapfile) # Merge into phyloseq object
+underc = import_qiime(otufile,mapfile)  # Merge into phyloseq object
 
 # Relative abundance transformation 
 underc -> underc_rel
